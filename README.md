@@ -1,9 +1,11 @@
 # FitnessTracker-Python
+
 # Background  
 The project is being take to develop a basic and user-friendly fitness and health app/program. The code will take various parameters such as calories burnt in a day, calorie intake and Pedometer readings to suggest diet and health plans and to give an organized data.  
 
 # Objectives: 
 What the system will achieve 
+
 •	Take various health parameters as Input
 
 •	Convert the raw data into organized data and manage it
@@ -27,8 +29,13 @@ The project undertaken will develop a basic code for a fitness app, the code can
  
 # Tools and Software Requirements 
 •	A python IDE
+
 •	An Already Existing and well-functioning Pedometer.
+
 •	An app for calculating calories burnt based on reading from Pedometer and other Physical work.
+
 •	Use of SDK
+
+
 
 
